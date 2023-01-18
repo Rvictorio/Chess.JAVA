@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bd2470a-eee1-4410-b967-a083ae87eaad" name="Changes" comment="Adição de check">
+    <list default="true" id="6bd2470a-eee1-4410-b967-a083ae87eaad" name="Changes" comment="Adição da jogada especial El Passant">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +118,70 @@
       <option name="project" value="LOCAL" />
       <updated>1673993299084</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Lógica de checkmate">
+      <created>1674001803999</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674001803999</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Contagem de movimentos">
+      <created>1674051808613</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674051808613</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Adição do peão">
+      <created>1674053009662</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674053009662</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Adição do bispo">
+      <created>1674053398130</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1674053398130</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Adição do cavalo">
+      <created>1674053990007</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1674053990007</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Adição da rainha e resolução do bug no peão">
+      <created>1674054235092</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1674054235092</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Adição ddo movimento especial do rei">
+      <created>1674054644442</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1674054644442</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Adição da jogada especial El Passant">
+      <created>1674054755713</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1674054755713</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Adição da jogada especial El Passant">
+      <created>1674054828194</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1674054828194</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,7 +205,15 @@
     <MESSAGE value="Adição de turno" />
     <MESSAGE value="Introdução ao sistema de capturado." />
     <MESSAGE value="Adição de check" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adição de check" />
+    <MESSAGE value="Lógica de checkmate" />
+    <MESSAGE value="Contagem de movimentos" />
+    <MESSAGE value="Adição do peão" />
+    <MESSAGE value="Adição do bispo" />
+    <MESSAGE value="Adição do cavalo" />
+    <MESSAGE value="Adição da rainha e resolução do bug no peão" />
+    <MESSAGE value="Adição ddo movimento especial do rei" />
+    <MESSAGE value="Adição da jogada especial El Passant" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adição da jogada especial El Passant" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
